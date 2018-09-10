@@ -1,0 +1,10 @@
+body {
+    font-size: 1.2em;
+}
+
+.container {
+    width: 80%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: auto
+}
